@@ -3,12 +3,11 @@
     "version": "0.3.4",
     "private": false,
     "dependencies": {
-        "pomelo-scheduler": "0.3.8",
         "pomelo-logger": "0.1.2",
         "pomelo-monitor": "0.3.7",
+        "pomelo-scheduler": "0.3.8",
         "socket.io": "0.9.16",
-        "socket.io-client": "0.9.16",
-        "heapdump": "0.2.7"
+        "socket.io-client": "0.9.16"
     },
     "devDependencies": {
         "should": ">=0.0.1",
