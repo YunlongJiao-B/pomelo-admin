@@ -9,7 +9,7 @@
         "socket.io-client": "0.9.16"
     },
     "peerDependencies" : {
-        "pomelo-logger" : "0.1.7"
+        "pomelo-logger" : "0.0.3"
     },
     "devDependencies": {
         "should": ">=0.0.1",
